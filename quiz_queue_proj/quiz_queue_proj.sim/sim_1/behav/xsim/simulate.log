@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+T1 reset: EMPTY, digit 0 LED=0100000000000000 SEG=1000000
+T2 push 3: count 1       LED=0000000000000001 SEG=1000000
+T3 push 7, A: count 3    LED=0000000000000011 SEG=1000000
+T4 pop: digit 3, count 2 LED=0000000000000010 SEG=0110000
+T4 pop: digit 7, count 1 LED=0000000000000001 SEG=1111000
+T4 pop: digit A, EMPTY   LED=0100000000000000 SEG=0001000
+T5 pop when EMPTY        LED=0100000000000000 SEG=0001000
+T6 push 1..8: FULL       LED=1000000000001000 SEG=0001000
+T7 push F when FULL      LED=1000000000001000 SEG=0001000
+T8 pop: digit 1, count 7 LED=0000000000000111 SEG=1111001
+T9 reset: EMPTY, digit 0 LED=0100000000000000 SEG=1000000
+done: 0 errors
+$finish called at time : 7650 ns : File "/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue_tb.v" Line 90

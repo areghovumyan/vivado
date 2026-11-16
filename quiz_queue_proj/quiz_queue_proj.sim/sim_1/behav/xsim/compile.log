@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/starter/quiz_queue/btn_pulse.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module btn_pulse
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/starter/quiz_queue/fifo_flags.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_flags
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/starter/quiz_queue/fifo_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/starter/quiz_queue/sseg_hex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sseg_hex
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_queue
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_queue_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/aro/vivado/Quiz2/quiz_queue_proj/quiz_queue_proj.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,11 @@
+0.7
+2020.2
+Jun 16 2026
+11:12:08
+/home/aro/vivado/Quiz2/quiz_queue_proj/quiz_queue_proj.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,,,,,,,
+/home/aro/vivado/Quiz2/starter/quiz_queue/btn_pulse.v,1794790474,verilog,,/home/aro/vivado/Quiz2/starter/quiz_queue/fifo_flags.v,,btn_pulse,,,../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef,,,,,
+/home/aro/vivado/Quiz2/starter/quiz_queue/fifo_flags.v,1794790430,verilog,,/home/aro/vivado/Quiz2/starter/quiz_queue/fifo_sync.v,,fifo_flags,,,../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef,,,,,
+/home/aro/vivado/Quiz2/starter/quiz_queue/fifo_sync.v,1794790499,verilog,,/home/aro/vivado/Quiz2/starter/quiz_queue/sseg_hex.v,,fifo_sync,,,../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef,,,,,
+/home/aro/vivado/Quiz2/starter/quiz_queue/sseg_hex.v,1793952881,verilog,,/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue.v,,sseg_hex,,,../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef,,,,,
+/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue.v,1793952881,verilog,,/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue_tb.v,,top_queue,,,../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef,,,,,
+/home/aro/vivado/Quiz2/starter/quiz_queue/top_queue_tb.v,1793952881,verilog,,,,top_queue_tb,,,../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef,,,,,

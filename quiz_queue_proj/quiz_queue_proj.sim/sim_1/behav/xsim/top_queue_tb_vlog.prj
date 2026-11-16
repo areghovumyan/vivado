@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../opt/AMDDesignTools/2026.1/data/rsb/busdef" \
+"../../../../../starter/quiz_queue/btn_pulse.v" \
+"../../../../../starter/quiz_queue/fifo_flags.v" \
+"../../../../../starter/quiz_queue/fifo_sync.v" \
+"../../../../../starter/quiz_queue/sseg_hex.v" \
+"../../../../../starter/quiz_queue/top_queue.v" \
+"../../../../../starter/quiz_queue/top_queue_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
