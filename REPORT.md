@@ -230,13 +230,3 @@ Always fix the **first** FAIL line first: later FAILs are often caused by an ear
 12. **Active low:** SEG bit 0 = segment ON. `AN = 1111_1110` turns on only digit 0. `DP = 1` means the dot is off.
 
 ---
-
-## 8. File locations
-
-| Path | Contents |
-|---|---|
-| `starter/quiz_queue/` | Fixed design files, unchanged testbenches, fixed XDC |
-| `quiz_queue_ORIGINAL/` | Untouched starter files (for original line numbers) |
-| `quiz_queue_proj/` | Vivado project (sources added without copying) |
-| `quiz_queue_proj/quiz_queue_proj.runs/impl_1/top_queue.bit` | Final bitstream |
-| `BugLog_StudyGuide.md` | Short Bug Log table and Q&A |
